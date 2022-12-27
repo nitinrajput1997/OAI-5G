@@ -4,7 +4,7 @@
 
 **Install**
 
-Rancher k8s cluster (having RBAC)<br />
+k8s cluster (having RBAC)<br />
 Multus-CNI<br />
 Helm spray<br />
 
