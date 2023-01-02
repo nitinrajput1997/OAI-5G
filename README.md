@@ -4,7 +4,7 @@
 
 **Install**
 
-k8s cluster (having RBAC)<br />
+Any k8s cluster (having RBAC)<br />
 Multus-CNI<br />
 Helm spray<br />
 
